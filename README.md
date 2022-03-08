@@ -1,6 +1,6 @@
-# Jadual-lengkap-jawi
-<!DOCTYPE html>
-<html lang="en">
+# جادوال لڠكڤ جاوي
+
+<html lang="ar-rMY">
 <head>
 	<meta charset="UTF-8">
 	<title>Animasi Ikan di Aquarium</title>
@@ -187,5 +187,12 @@ img.iwak
 		</div>
 	</div>
 	<div class="shadow"></div>
+	<div dir="rtl" class="Font">ممواتكن...</div><div dir="rtl" class="Font">Loading...</div>
 </body>
+	<style>
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+
+.Font {
+  font-family: 'Amiri', serif;
+</style>
 </html>
